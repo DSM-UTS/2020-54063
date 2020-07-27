@@ -5,7 +5,7 @@ We have a short "getting ready" session instead of a formal lecture. There is no
 * AARNet. (n.d.). Cloudstor getting started guide. *AARNet Knowledge Base*. Retrieved June 19, 2019, from
     http://support.aarnet.edu.au/hc/en-us/articles/227469547-CloudStor-Getting-Started-Guide
 * Barba, L. A., Lecia J. Barker, Douglas S. Blank, Jed Brown, Allen B. Downey, Timothy George, Lindsey J. Heagy, Kyle T. Mandli, Jason K. Moore, David Lippert, Kyle E. Niemeyer, Ryan R. Watkins, Richard H. West, Elizabeth Wickes, Carol Willing, & Michael Zingale. (2019). *Teaching and learning with Jupyter*. Self-published. https://jupyter4edu.github.io/jupyter-edu-book/
-* Michael Fudge. (2017). *Quick introduction to Jupyter Notebook*. <https://www.youtube.com/watch?v=jZ952vChhuI
+* Michael Fudge. (2017). *Quick introduction to Jupyter Notebook*. https://www.youtube.com/watch?v=jZ952vChhuI
 
 ------------------------------------------------------------------------
 
